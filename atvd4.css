@@ -1,0 +1,53 @@
+/* resetando css/
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto,sans-serif;
+}
+
+/manipulando/
+header{
+
+    height: 80px;
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+    justify-content: space-between;
+    background: #b3949b;
+    color: white;
+}
+nav ul{
+    font-size: 20px;
+    display: flex;
+    list-style: none;
+    gap: 1.8rem;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+}
+#div-plantas{
+    margin: 1rem 0;
+    color: white;
+    font-family: Roboto,sans-serif;
+    text-align: center;
+}
+
+#plantas{
+    background:#b3949b ;
+    width: 100px;
+    padding: .5rem;
+}
+
+
+
+h1{
+    margin-bottom: 20px;
+}
