@@ -1,0 +1,21 @@
+#ptitulo {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+}
+#ptitulo2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+}
+#ptitulo3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+}
+.ptexto {
+    font-style: italic;
+}
+body {
+    background-color: yellow;
+}
